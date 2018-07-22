@@ -4,7 +4,7 @@ import numpy as np
 
 slices = [7,2,2,13]
 activities = ['sleeping','eating','working','playing']
-cols = ['c','m','r','b']
+cols = ['c','m','r','g']
 
 plt.pie(slices,
         labels=activities,
